@@ -18,6 +18,7 @@ from pylab import *
 import matplotlib.pyplot as plt
 import math #for compatibility
 import pandas as pd
+import math
 
 
 def cross_wavelet(wave1, wave2):
